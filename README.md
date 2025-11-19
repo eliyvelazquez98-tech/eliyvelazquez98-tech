@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there! 👋 I'm Elizabeth  
+**Aspiring Data Scientist | Python • SQL • Machine Learning | Chemical Engineering (M.Eng.)**
 
-<!--
-**eliyvelazquez98-tech/eliyvelazquez98-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  
+  Building Machine Learning projects focused customer behavior, and industrial processes.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:  
+  Advanced Python for Data Science, Machine Learning, and Statistics as part of my data science bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:  
+  Data analysis + ML projects, especially those related to sales analytics, risk evaluation, or energy/industrial applications.
+
+- 🤔 I’m looking for help with:  
+  Improving my model deployment workflow (Streamlit, FastAPI) and sharpening my data storytelling.
+
+- 💬 Ask me about:  
+  Python basics, SQL queries, data preprocessing, chemical engineering topics, or industrial risk analysis.
+
+- 📫 How to reach me:  
+  **LinkedIn:** https://linkedin.com/in/tu-url-personalizado  
+  **Email:** eli_velazquez98@hotmai.com
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact:  
+  I love dancing, hiking, swimming, and exploring how data can explain real-world behavior.
