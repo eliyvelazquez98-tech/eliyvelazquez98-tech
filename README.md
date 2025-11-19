@@ -1,6 +1,7 @@
 ### Hi there! 👋 I'm Elizabeth  
 **Aspiring Data Scientist | Python • SQL • Machine Learning | Chemical Engineering (M.Eng.)**
-
+![Python](https://img.shields.io/badge/Python-3776AB)
+![SQL](https://img.shields.io/badge/SQL-003B57)
 - 🔭 I’m currently working on:  
   Building Machine Learning projects focused customer behavior, and industrial processes.
 
