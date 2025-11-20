@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Elizabeth  
-![Banner](https://www.canva.com/design/DAG5K5R3hs8/9vhssCCNOV2EtLBC9HKGsQ/edit)
+![Banner](https://github.com/eliyvelazquez98-tech/eliyvelazquez98-tech/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 **Aspiring Data Scientist | Python • SQL • Machine Learning | Chemical Engineering (M.Eng.)**
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![SQL](https://img.shields.io/badge/SQL-003B57)
