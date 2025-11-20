@@ -1,4 +1,5 @@
 ### Hi there! 👋 I'm Elizabeth  
+![Banner]("C:\Users\Elizabeth\Downloads\White Minimalist Corporate Personal Profile LinkedIn Banner.png")
 **Aspiring Data Scientist | Python • SQL • Machine Learning | Chemical Engineering (M.Eng.)**
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![SQL](https://img.shields.io/badge/SQL-003B57)
