@@ -17,11 +17,10 @@
 
 - 💬 Ask me about:  
   Python basics, SQL queries, data preprocessing, chemical engineering topics, or industrial risk analysis.
-
-- 📫 How to reach me:  
-  **LinkedIn:** https://linkedin.com/in/tu-url-personalizado  
-  **Email:** eli_velazquez98@hotmai.com
-
+  
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-Contactar-red)](eli_velazquez98@hotmai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/tu-url-personalizado)
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact:  
