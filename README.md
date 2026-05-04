@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Elizabeth  
-![Banner]([https://github.com/eliyvelazquez98-tech/eliyvelazquez98-tech/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png])
+![Banner](https://github.com/eliyvelazquez98-tech/eliyvelazquez98-tech/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 **Data Analyst | Machine Learning & Forecasting | Python • SQL | Engineering Background**
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![SQL](https://img.shields.io/badge/SQL-003B57)
