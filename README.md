@@ -1,20 +1,16 @@
 ### Hi there! 👋 I'm Elizabeth  
 ![Banner](https://github.com/eliyvelazquez98-tech/eliyvelazquez98-tech/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
-**Aspiring Data Scientist | Python • SQL • Machine Learning | Chemical Engineering (M.Eng.)**
+**Data Analyst | Machine Learning & Forecasting | Python • SQL | Engineering Background**
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![SQL](https://img.shields.io/badge/SQL-003B57)
-- 🔭 I’m currently working on:  
-  Building Machine Learning projects focused customer behavior, and industrial processes.
-
-- 🌱 I’m currently learning:  
-  Advanced Python for Data Science, Machine Learning, and Statistics as part of my data science bootcamp.
-
-- 👯 I’m looking to collaborate on:  
-  Data analysis + ML projects, especially those related to sales analytics, risk evaluation, or energy/industrial applications.
-
-- 🤔 I’m looking for help with:  
-  Improving my model deployment workflow (Streamlit, FastAPI) and sharpening my data storytelling.
-
+- 🔭 I’m currently working on:
+Machine Learning projects focused on customer behavior and sales forecasting.
+🌱 I’m currently learning:
+Advanced machine learning techniques and improving model performance and evaluation.
+👯 I’m looking to collaborate on:
+Data analysis and ML projects related to sales, risk analysis, or industrial applications.
+💬 Ask me about:
+Python, SQL, data preprocessing, machine learning, or engineering-based problem solving.
 - 💬 Ask me about:  
   Python basics, SQL queries, data preprocessing, chemical engineering topics, or industrial risk analysis.
   
