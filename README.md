@@ -5,12 +5,16 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57)
 - 🔭 I’m currently working on:
 Machine Learning projects focused on customer behavior and sales forecasting.
-🌱 I’m currently learning:
+
+- 🌱 I’m currently learning:
 Advanced machine learning techniques and improving model performance and evaluation.
-👯 I’m looking to collaborate on:
+
+- 👯 I’m looking to collaborate on:
 Data analysis and ML projects related to sales, risk analysis, or industrial applications.
-💬 Ask me about:
+
+- 💬 Ask me about:
 Python, SQL, data preprocessing, machine learning, or engineering-based problem solving.
+
 - 💬 Ask me about:  
   Python basics, SQL queries, data preprocessing, chemical engineering topics, or industrial risk analysis.
   
